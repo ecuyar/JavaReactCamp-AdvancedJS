@@ -1,2 +1,2 @@
-# advancedJavaScript
-Base repository for Siemens Advanced JS Course
+# AdvancedJavaScript
+This project is developed on Engin Demiroğ's Java & React Software Developer Camp, React section.
